@@ -37,10 +37,10 @@ module.exports = {
   },
   modules: [
     // Simple usage
-    "nuxt-netlify-cms",
+    // "nuxt-netlify-cms",
 
     // With options
-    ["nuxt-netlify-cms", { adminPath: "secure" }],
+    // ["nuxt-netlify-cms", { adminPath: "secure" }],
   ],
 
   // You can optionally use global options instead of inline form
